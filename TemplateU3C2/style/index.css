@@ -1,0 +1,39 @@
+#navbar{
+    height: 60px;width: 100%;
+    border: 1px solid black;
+    display: flex;
+    padding-top: 10px;
+}
+#navbar p{
+    margin: 0px 0px 0px 40px;
+}
+#count{
+height: 80%;width: 100px;
+border: 1px solid brown;
+margin-left: 900px;
+}
+
+  #menu{
+    border: 1px solid black;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(100px,1fr);
+    grid-gap:20px;
+} 
+#article_div{
+    border: 1px solid black;
+    width: 250px;
+
+}
+#foodImage{
+    height: 50%;
+    width: 90%;
+}
+#addtocart{
+    height: 50px;width: 100px;
+}
+#cart-btn{
+    height: 50px;width: 100px;
+    margin: 40px 0px 20px 0px;
+}

@@ -1,0 +1,50 @@
+{
+  "rental": [
+    {
+      "id": 1,
+      "name":"Rahul",
+      "OwnerName":"Rahul Kumar",
+      "Address":"palam village",
+      "AreaCode":"10056",
+      "rent":1000,
+      "preferred tenants":"Married"
+    },
+    {
+      "id": 2,
+      "name":"Nishant",
+      "OwnerName":"Rahul Kumar",
+      "Address":"palam village",
+      "AreaCode":"10056",
+      "rent":1000,
+      "preferred tenants":"Married"
+    },
+    {
+      "id": 3,
+      "name":"Vikjay",
+      "OwnerName":"Rahul Kumar",
+      "Address":"palam village",
+      "AreaCode":"10056",
+      "rent":1000,
+      "preferred tenants":"Bachelor"
+    },
+    {
+      "id": 4,
+      "name":"Deepak",
+      "OwnerName":"Deepak Kumar",
+      "Address":"palam village",
+      "AreaCode":"10056",
+      "rent":1000,
+      "preferred tenants":" Married"
+    },
+    {
+      "id": 5,
+      "name":"Sahil",
+      "OwnerName":"sahil Kumar",
+      "Address":"palam village",
+      "AreaCode":"10056",
+      "rent":1000,
+      "preferred tenants":"Bachelor"
+    }
+  ]
+    
+}

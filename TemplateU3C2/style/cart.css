@@ -1,0 +1,17 @@
+#cart{
+    border: 1px solid rgb(233, 230, 230);
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(100px,1fr);
+    grid-gap:20px;
+}
+#article_div1{
+    border: 1px solid black;
+    width: 250px;
+
+}
+#foodImage{
+    height: 50%;
+    width: 90%;
+}
